@@ -8,7 +8,7 @@ body {
 header {
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/imagens/imagemfundo.jpg);
+    background-image: url('https://img.freepik.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1728172800&semt=ais_hybrid');
     background-color: #333;
     color: #fff;
     padding: 15px;
