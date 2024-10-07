@@ -61,6 +61,7 @@ section {
     color: white;
 }
 .section1{
+    font-family: "Poppins", sans-serif;
     border-radius: 30px;
     background-color: #3498db;
     text-align: center;
@@ -121,5 +122,20 @@ footer {
     position: fixed;
     bottom: 0px;
     width: 100%;
+}
+#whatsappButton {
+    align-items: center;
+    background-color: #25D366; /* Cor do WhatsApp */
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+#whatsappButton:hover {
+    background-color: #128C7E;
 }
 
